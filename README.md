@@ -1,6 +1,6 @@
 ### Olá! Meu nome e Felipe 😄
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-da-siva/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofelipedasilva/)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=0Lipe&show_icons=true&theme=radical)
 
